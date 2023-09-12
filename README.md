@@ -42,13 +42,7 @@ Explore the live Power BI dashboard here:(https://www.novypro.com/project/enhanc
 
 Feel free to contribute, provide feedback, or use this dashboard as a source of inspiration for your own data analytics projects. Together, we can help AtliQ Grands thrive in the ever-evolving hospitality industry! 🏨✨
 
-How to Use
-To get started with the AtliQ Grands Power BI Dashboard, follow these steps:
 
-Clone this repository to your local machine.
-Download the Power BI file from the repository.
-Open the Power BI file using Microsoft Power BI Desktop.
-Connect the dashboard to your own data source or use the sample data provided.
 Explore the dashboard and start making data-driven decisions!
 Contributor
 Keyur Dattani
