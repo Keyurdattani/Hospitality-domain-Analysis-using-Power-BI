@@ -20,11 +20,17 @@ Key Metrics Unveiled
 This project sheds light on crucial metrics essential for success in the hospitality industry:
 
 **ADR (Average Daily Revenue)**: The average payment for rooms sold in a given time period.
+
 **DBRN (Daily Booked Room Nights)**: The average number of rooms booked per day during a time period.
+
 **DSRN (Daily Sellable Room Nights)**: The average number of rooms available for sale per day during a time period.
+
 **DURN (Daily Utilized Room Nights)**: The average number of rooms successfully used by customers per day during a time period.
+
 **Occupancy Percentage**: The percentage of successfully booked rooms out of the total available capacity.
+
 **No-Show Rate**: The percentage of customers who fail to show up for their bookings.
+
 **Realization Percentage**: The percentage of successfully checked out bookings over all bookings made.
 
 A Path to Success
