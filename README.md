@@ -37,7 +37,7 @@ A Path to Success
 This Power BI report is based on three months' worth of booking data and provides actionable insights to AtliQ Grands' revenue team. It identifies opportunities to improve pricing, implement cost-cutting strategies, and drive revenue growth. The project focuses on two cities and a specific hotel, enabling targeted interventions. The outcome? A roadmap for AtliQ Grands to regain market share and increase revenue.
 
 Live Dashboard
-Explore the live Power BI dashboard here:(https://www.novypro.com/project/enhancing-competitiveness-through-business-and-data-intelligence-developed-a-power-bi-dashboard-for-atliq-grands-power-bi)
+Explore the live Power BI dashboard here:(https://app.powerbi.com/view?r=eyJrIjoiN2I1MjJkYjMtNGZjNy00YTY3LTlhNTktYzhjODdhYjBiZTFiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection82ac41128baa10f56b0d)
 
 
 Feel free to contribute, provide feedback, or use this dashboard as a source of inspiration for your own data analytics projects. Together, we can help AtliQ Grands thrive in the ever-evolving hospitality industry! 🏨✨
